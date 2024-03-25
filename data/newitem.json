@@ -1,0 +1,14 @@
+{
+    "top": [
+        {"row":"left","itemNum":"new-item1", "img": "./img/section2_one.jpg", "div": "ondiv-1", "cate": "PEN", "name": "FX ZETA C3"},
+        {"row":"right","itemNum":"new-item2", "img": "./img/section2_two.jpg", "div": "ondiv-2", "cate": "NOTE", "name": "지퀀스"}
+    
+    ],
+    
+
+    "bottom":[
+        {"case":"new-item3", "img":"./img/section2_three.jpg", "div":"ondiv-3","cate":"SHARP","name":"제니스7샤프"},
+        {"case":"new-item4", "img":"./img/section2_four.jpg", "div":"ondiv-4","cate":"FOUNTAIN PEN","name":"153 아이디 만년필"},
+        {"case":"new-item5", "img":"./img/section2_five.jpg", "div":"ondiv-5","cate":"PREMIUM PEN","name":"153 리스펙트 리파인"}
+]
+}
